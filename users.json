@@ -1,0 +1,33 @@
+[
+
+    {
+        "_id": "0",
+        "name": "Tom Smith",
+        "surveysCompleted": [
+            {"type": "REGISTER", "completions": ["Thu Dec 09 2021 14:16:51 GMT-0700 (Mountain Standard Time)"], "repeatsEveryXDays": 0},
+            {"type": "ONBOARDING", "completions": ["Thu Dec 09 2021 14:16:51 GMT-0700 (Mountain Standard Time)"], "repeatsEveryXDays": 0},
+            {"type": "SUCCESS_TRACK", "completions": ["Thu Oct 28 2021 13:58:26 GMT-0700 (Mountain Standard Time)"], "repeatsEveryXDays": 90}
+        ]
+    },
+
+    {
+        "_id": "1",
+        "name": "Terje Gloerstad",
+        "surveysCompleted": [
+            {"type": "REGISTER", "completions": ["Thu Dec 09 2021 14:16:51 GMT-0700 (Mountain Standard Time)"], "repeatsEveryXDays": 0},
+            {"type": "ONBOARDING", "completions": ["Thu Dec 09 2021 14:16:51 GMT-0700 (Mountain Standard Time)"], "repeatsEveryXDays": 0},
+            {"type": "SUCCESS_TRACK", "completions": ["Thu Nov 18 2021 13:58:26 GMT-0700 (Mountain Standard Time)"], "repeatsEveryXDays": 90}
+        ]
+    },
+
+    {
+        "_id": "2",
+        "name": "Bobby Brown",
+        "surveysCompleted": [
+            {"type": "REGISTER", "completions": ["Thu Dec 09 2021 14:16:51 GMT-0700 (Mountain Standard Time)"], "repeatsEveryXDays": 0},
+            {"type": "ONBOARDING", "completions": ["Thu Dec 09 2021 14:16:51 GMT-0700 (Mountain Standard Time)"], "repeatsEveryXDays": 0},
+            {"type": "SUCCESS_TRACK", "completions": ["Thu Dec 09 2021 14:16:51 GMT-0700 (Mountain Standard Time)"], "repeatsEveryXDays": 90}
+        ]
+    }
+
+]
